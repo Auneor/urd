@@ -371,7 +371,6 @@
                              <img t-if="doc.formation_reports.urb_tampon"
                                   t-att-src="'data:image/png;base64,%s' % doc.formation_reports.urb_tampon"
                                   style="float: right; width: 35%;"/>
-
                         </div>
                     </div>
 

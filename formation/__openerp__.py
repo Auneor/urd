@@ -18,13 +18,8 @@
     'depends': ['crm'],
 
     'data': [
-        # 'security/ir.model.access.csv',
         'views/crm_lead.xml',
         'views/formation.xml',
         'views/rapport_formation.xml',
-    ],
-
-    'demo': [
-        'demo.xml',
     ],
 }
