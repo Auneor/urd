@@ -17,6 +17,9 @@ le bouton 'imprimer' placé juste a côté du bouton 'Autres options' au-dessus 
 Le modèle de template comporte comme convenue les champs que vous souhaitez modifier sur le PDF 
 (Champs Bleu et certains champs jaune).
 
+Le logo et le tampon de l’entreprise se configurent depuis le formulaire du modèle. 
+Il suffit de télécharger les images dans les champs requis. Les images prendront les dimensions 
+nécessaires automatiquement.
 
 
 
