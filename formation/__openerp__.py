@@ -14,7 +14,7 @@
 
     'category': 'Uncategorized',
     'version': '0.1',
-    'license': 'AGPL-3',
+    'license': 'GPL-2',
 
     'depends': ['crm'],
 
